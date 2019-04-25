@@ -17,6 +17,8 @@
     
     __Il est *posible* de les combiner__
     
+    ~~Barrer un mot~~
+    
     
     
 ## Faire une liste
