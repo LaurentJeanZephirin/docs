@@ -17,6 +17,6 @@ Shift + flêche haut ou bas: pour selectionner une ou plusieurs lignes
 Shift + Alt + flêche haut ou bas: déplacer ligne de code
 Ctrl + Z: retour en arrière
 Ctrl + Shift + Z: retour en avant
-écrire le nom d'une balise + Tab: écrit la 
+écrire le nom d'une balise + Tab: écrit la balise avec les signes
 ```
 
