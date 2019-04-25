@@ -20,6 +20,3 @@ Ctrl + Shift + Z: retour en avant
 écrire le nom d'une balise + Tab: écrit la 
 ```
 
-
-
-
